@@ -1,0 +1,19 @@
+{
+  "name": "cv3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Gaurav Maheshwari <gauravmaheshwari57@gmail.com> (http://github.com/ga245004)",
+  "readmeFilename": "README.md",
+  "description": "OpenCV3 for Node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ga245004/cv3.git"
+  },
+  "keywords": [
+    "opencv3",
+    "cv3",
+    "computer",
+    "vision"
+  ]
+}
